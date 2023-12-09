@@ -52,6 +52,12 @@ const linksList = [
     icon: 'code',
     link: '/about',
   },
+  {
+    title: 'Deck',
+    caption: 'deck page',
+    icon: 'code',
+    link: '/deck',
+  },
 ];
 
 export default defineComponent({
