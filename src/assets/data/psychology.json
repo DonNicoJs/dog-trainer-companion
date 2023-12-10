@@ -1,0 +1,146 @@
+[
+  {
+    "question": "Cos'è l'etogramma nel contesto della psicologia canina",
+    "answer": "L'etogramma è il comportamento specie-specifico determinato sia dall'evoluzione filogenetica della specie che dallo sviluppo ontogenetico dell'individuo. Include tutti i comportamenti tipici della specie sviluppati in funzione delle loro necessità di adattamento."
+  },
+  {
+    "question": "Qual è la differenza tra filogenesi e ontogenesi nella psicologia canina",
+    "answer": "La filogenesi riguarda l'evoluzione e la storia evolutiva dei gruppi sistematici animali, ovvero la parte genetica di un animale. L'ontogenesi, invece, è l'intero processo di sviluppo di un animale, ossia la parte esperienziale."
+  },
+  {
+    "question": "Quali sono le fasi dello sviluppo comportamentale di un cane",
+    "answer": "Le fasi includono il periodo prenatale, il periodo neonatale, il periodo della socializzazione o dell'imprinting, il periodo giovanile, il periodo pubertario (o maturità sessuale) e il periodo post pubertario (o maturità sociale)."
+  },
+  {
+    "question": "Qual è l'importanza del periodo neonatale per i cuccioli di cane",
+    "answer": "Durante il periodo neonatale, i cuccioli sviluppano le capacità sensoriali olfattive, termiche, tattili e in parte il gusto. La loro abilità motoria è limitata e dipendono dalle cure materne. È un periodo cruciale per lo sviluppo delle strutture nervose e per l'imprinting dei riflessi."
+  },
+  {
+    "question": "Come influisce la madre sullo sviluppo comportamentale dei cuccioli",
+    "answer": "La madre esercita un comportamento epimeletico, che include attività come leccare le zone perineali dei cuccioli, difenderli, allattarli e portare cibo. Questo comportamento ha un impatto significativo sullo sviluppo dei cuccioli, sia fisico che comportamentale."
+  },
+  {
+    "question": "Che cosa sono i comportamenti et-epimeletici nei cuccioli di cane",
+    "answer": "Sono comportamenti precoci propri dei cuccioli, come scodinzolare con la coda in posizione bassa, uggiole, leccare il muso della madre, saltare e dare zampate alla madre, che indicano la ricerca di cure e attenzioni."
+  },
+  {
+    "question": "Quali problemi possono sorgere da una scarsa manipolazione dei cuccioli",
+    "answer": "Una scarsa manipolazione può portare a strutture nervose incomplete, ridotte capacità cognitive e immunitarie, e deficit nella socializzazione. Questo può comportare anche problemi di ipervigilanza e aggressività."
+  },
+  {
+    "question": "Quali sono alcune indicazioni importanti per la cura dei cuccioli nel periodo neonatale",
+    "answer": "È importante accarezzare dolcemente l'addome della madre durante la gravidanza, manipolare i cuccioli fin da subito, mantenere la madre in un ambiente tranquillo e conosciuto, fornire un adeguato apporto nutritivo e abituare la madre all'ambiente del parto."
+  },
+  {
+    "question": "Che cosa caratterizza il periodo transizionale nella vita di un cucciolo di cane",
+    "answer": "Il periodo transizionale inizia con l'apertura degli occhi e termina con l'apertura dei canali auricolari. I cuccioli sviluppano la capacità di defecare e urinare autonomamente, diminuiscono le ore di sonno, e iniziano a mostrare atteggiamenti giocosi e alcune vocalizzazioni sociali."
+  },
+  {
+    "question": "Cos'è il riflesso di trasalimento nei cuccioli di cane",
+    "answer": "È un riflesso che compare intorno al 20° giorno, quando i cuccioli iniziano a sentire i rumori. Questo riflesso può essere testato per diagnosticare precocemente la sordità nei cuccioli."
+  },
+  {
+    "question": "Quali sono esempi di comportamenti allomimetici nei cuccioli di cane",
+    "answer": "I comportamenti allomimetici includono mangiare e dormire insieme, camminare, sedersi o sdraiarsi insieme, esplorare oggetti insieme, abbaiare o guaire insieme, leccarsi a vicenda (grooming), e annusarsi."
+  },
+  {
+    "question": "Qual è l'importanza della madre nel comportamento dei cuccioli",
+    "answer": "La madre è un elemento referenziale che connette il cucciolo all'ambiente esterno, fornendo un modello da imitare, sostegno e rassicurazione, e orientando l'interesse esplorativo del cucciolo."
+  },
+  {
+    "question": "Come avviene il passaggio dall'allattamento allo svezzamento nei cuccioli di cane",
+    "answer": "Inizialmente, la madre avvia l'allattamento e aiuta i cuccioli. Con il passare del tempo, tende ad evitare l'allattamento e inizia a punire lievemente i tentativi di suzione, fino a quando i cuccioli iniziano a evitarla di loro iniziativa."
+  },
+  {
+    "question": "Cos'è la fase di attaccamento alla mamma nei cuccioli di cane",
+    "answer": "È una fase che inizia intorno alla terza settimana, dove il cucciolo identifica la madre come stimolo primario per il mantenimento dell'omeostasi emozionale. Questo attaccamento è emotivamente importante e durevole nel tempo."
+  },
+  {
+    "question": "Quali possono essere le alterazioni del processo di attaccamento nei cuccioli di cane",
+    "answer": "Possono includere un profilo ambivalente, dove il cucciolo deve sempre controllare la base sicura; un profilo insicuro evitante, dove il cucciolo tende ad evitare le interazioni per paura di essere rifiutato; e un profilo morboso, dove il cucciolo non riesce a staccarsi dalla base sicura."
+  },
+  {
+    "question": "In che modo si manifesta il distacco dalla madre nei cuccioli di cane",
+    "answer": "Il distacco inizia con l'eruzione dei denti e si conclude alla pubertà, spesso coincidendo con l'adozione da parte di un nuovo proprietario. Questo può causare sconforto e disorientamento nel cucciolo, che inizia a formare un nuovo legame di attaccamento con il proprietario."
+  },
+  {
+    "question": "Quali problemi possono emergere con la madre dei cuccioli",
+    "answer": "Problemi come mancanza di istinto materno, cannibalismo e infanticidio, e aggressività verso estranei. Soluzioni includono fornire un ambiente tranquillo e introdurre estranei in modo graduale."
+  },
+  {
+    "question": "Che cosa caratterizza il periodo della socializzazione o impregnazione nei cuccioli di cane",
+    "answer": "È un periodo sensibile dove le esperienze acquisite hanno un peso particolare, consentendo lo sviluppo di legami anche non conspecifici e la conservazione a lungo termine di queste informazioni."
+  },
+  {
+    "question": "Cos'è l'impregnazione intraspecifica e qual è la sua importanza nei cuccioli di cane",
+    "answer": "È il processo attraverso cui un cucciolo impara la propria identità di specie attraverso interazioni sociali con altri cani, inclusa la madre e i suoi fratelli. Questo include l'identificazione della specie canina, l'attaccamento filiale e la socializzazione."
+  },
+  {
+    "question": "Quali sono alcuni problemi comportamentali che possono emergere nei cuccioli di cane",
+    "answer": "Problemi come dissocializzazione, assenza di conoscenze del linguaggio sociale e iperattività possono emergere a causa di esperienze negative o mancate durante le fasi di sviluppo."
+  },
+  {
+    "question": "Che cos'è l'impregnazione interspecifica nei cuccioli di cane",
+    "answer": "L'impregnazione interspecifica si riferisce al periodo ottimale per la socializzazione dei cuccioli con specie diverse dalla loro, tra cui gli esseri umani. Questo periodo va da 1 a 2-3 mesi di vita, richiede rinforzi regolari e generalizzazione per essere efficace."
+  },
+  {
+    "question": "Quali sono i risultati dell'esperimento di Scott e Fuller sull'impregnazione interspecifica",
+    "answer": "Scott e Fuller osservarono che l'età del cucciolo influenzava la sua reazione agli umani: più giovane era il cucciolo, più facilmente si avvicinava a un uomo. Dopo i 3 mesi, i cuccioli mostravano paura o evitavano del tutto l'interazione."
+  },
+  {
+    "question": "Qual è l'importanza dell'impregnazione ambientale per i cuccioli di cane",
+    "answer": "L'impregnazione ambientale aiuta i cuccioli a sviluppare la familiarità con diversi ambienti e stimoli, riducendo il rischio di reazioni fobiche verso ambienti sconosciuti in età adulta. È importante esporre i cuccioli a una varietà di esperienze sensoriali."
+  },
+  {
+    "question": "Quali problemi possono derivare da una cattiva impregnazione ambientale nei cuccioli di cane",
+    "answer": "La sindrome da privazione sensoriale può verificarsi quando i cuccioli crescono in ambienti ipostimolanti. Questo può portare i cani a temere l'ambiente circostante e persino a rimanere immobili in situazioni di paura."
+  },
+  {
+    "question": "Che cos'è l'impronta della paura e quando si verifica nei cuccioli di cane",
+    "answer": "L'impronta della paura si verifica tra le 8 e le 10 settimane di vita. Esperienze traumatiche o paurose in questo periodo possono lasciare un'impressione permanente, influenzando i comportamenti difensivi da adulti."
+  },
+  {
+    "question": "Cosa caratterizza il periodo giovanile nei cuccioli di cane",
+    "answer": "Durante il periodo giovanile, i sensi dei cuccioli sono completamente sviluppati, i denti permanenti iniziano a spuntare, e si assiste ad un affinamento delle capacità motorie. Questo periodo va dai 4 mesi alla pubertà."
+  },
+  {
+    "question": "Come si manifesta il periodo pubertario nei cani",
+    "answer": "Il periodo pubertario, che inizia tra i 6 e i 10 mesi, è caratterizzato da cambiamenti fisici e comportamentali, come lo sviluppo degli organi sessuali e l'aumento delle paure nei confronti di chi è estraneo."
+  },
+  {
+    "question": "Quali sono le caratteristiche del periodo post pubertario nei cani",
+    "answer": "Il periodo post pubertario, dalla maturità sessuale fino alla fase adulta (18-24 mesi), è caratterizzato dalla sedimentazione del carattere, sviluppo delle conoscenze applicative, sensibilizzazione ai feromoni e agli ormoni sessuali, e l'acquisizione di ruoli e responsabilità."
+  },
+  {
+    "question": "Quali sono i livelli nella piramide dei bisogni del cane",
+    "answer": "Nella piramide dei bisogni, i cani hanno bisogni di sopravvivenza (fame, sete, sonno, dolore, freddo, caldo), bisogni di sicurezza (timore, ansia, paura, panico), e bisogni istintivi e biologici (caccia, riproduzione, comportamento ossessivo compulsivo)."
+  },
+  {
+    "question": "Qual è la differenza tra bisogno e motivazione nei cani",
+    "answer": "Il bisogno nei cani viene attivato da stimoli interni ed esterni e genera una spinta emotiva, che a sua volta genera la motivazione, cioè l'azione per soddisfare quel desiderio. Ogni cane ha un repertorio di motivazioni tipiche della sua specie."
+  },
+  {
+    "question": "Quali sono i diversi tipi di motivazione nei cani",
+    "answer": "I cani hanno diverse motivazioni, tra cui cinestesica (movimento), perlustrativa (mappare il territorio), esplorativa (percezione dettagliata), sillegica (prendere oggetti), di ricerca, predatoria, affiliativa (ricerca di un gruppo sociale), comunicativa, epimeletica (cura dei familiari), et-epimeletica, somestesica (esplorare il proprio corpo), sociale, territoriale, protettiva, possessiva, competitiva, e collaborativa."
+  },
+  {
+    "question": "Qual è la funzione del comportamento nel contesto della psicologia canina",
+    "answer": "Ogni comportamento canino è egoistico e mira a procurare piacere. Ci sono due modi per ottenere piacere: procurarsi gioia o godimento, o annullare una sofferenza o un malessere, ristabilendo l'omeostasi."
+  },
+  {
+    "question": "Quali sono i diversi tipi di comportamenti nei cani",
+    "answer": "I cani mostrano una varietà di comportamenti, tra cui caccia, alimentari, eliminazione, benessere, riposo, spostamento, attaccamento, comunicazione, gestione del territorio, orientamento, gestione dei conflitti, aggressivi, sessuali, appresi, ludici, legati alle relazioni sociali, emotivi e funzionali."
+  },
+  {
+    "question": "Qual è l'importanza del gioco sociale nei cani",
+    "answer": "Il gioco sociale è importante per lo sviluppo delle abilità sociali, l'apprendimento delle regole sociali, la formazione e il mantenimento di legami, e l'esercizio fisico. Inoltre, il gioco sociale aumenta la cooperazione e la fiducia all'interno del gruppo."
+  },
+  {
+    "question": "Perché il gioco è fondamentale per gli animali, inclusi i cani",
+    "answer": "Il gioco è fondamentale per lo sviluppo delle abilità sociali, per formare e mantenere legami, come esercizio per situazioni serie, per l'esercizio fisico, la gerarchizzazione, e perché rilascia dopamina, generando benessere."
+  },
+  {
+    "question": "Quali sono le regole del gioco sociale nei cani",
+    "answer": "Le regole del gioco sociale includono il controllo della forza del morso, la proibizione dell'accoppiamento, il controllo delle affermazioni di dominanza, l'inversione dei ruoli e l'assenza o la riduzione al minimo dell},a paura."
+  }
+]
