@@ -17,7 +17,7 @@
       </q-toolbar>
     </q-header>
 
-    <q-drawer v-model="leftDrawerOpen" show-if-above bordered>
+    <q-drawer v-model="leftDrawerOpen" bordered>
       <q-list>
         <q-item-label header> Essential Links </q-item-label>
 
@@ -51,6 +51,12 @@ const linksList = [
     caption: 'about page',
     icon: 'code',
     link: '/about',
+  },
+  {
+    title: 'Deck',
+    caption: 'deck page',
+    icon: 'code',
+    link: '/deck',
   },
 ];
 
