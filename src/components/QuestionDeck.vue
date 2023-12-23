@@ -1,5 +1,11 @@
 <template>
-  <q-card class="my-card bg-grey-9 text-white" bordered>
+  <div align="center">Remaining Cards: {{ workingDeck.length }}</div>
+
+  <q-card
+    class="my-card bg-grey-9 text-white"
+    bordered
+    v-if="workingDeck.length !== 0"
+  >
     <q-card-section>
       <div class="text-subtitle2">
         {{ cardContent.question }}
@@ -20,10 +26,13 @@
       </q-btn>
     </q-card-actions>
   </q-card>
+  <q-card class="my-card bg-grey-9 text-white" align="center" bordered v-else>
+    FINISHED
+  </q-card>
 </template>
 
 <script lang="ts" setup>
-import { defineProps, ref, computed } from 'vue';
+import { ref, computed } from 'vue';
 import type { Ref } from 'vue';
 
 interface Card {
@@ -31,14 +40,28 @@ interface Card {
   answer: string;
 }
 
+const shuffleArray = (array: number[]) => {
+  let shuffledArray = array.slice(); // Create a copy of the array
+  for (let i = shuffledArray.length - 1; i > 0; i--) {
+    // Generate a random index
+    let j = Math.floor(Math.random() * (i + 1));
+    // Swap elements at indices i and j
+    [shuffledArray[i], shuffledArray[j]] = [shuffledArray[j], shuffledArray[i]];
+  }
+  return shuffledArray;
+};
+
 const props = defineProps<{
   deck: Array<Card>;
 }>();
 
 const isCardRevealed = ref(false);
-const cardIndex = ref(0);
 
-const workingDeck: Ref<number[]> = ref(Array.from(props.deck.keys()));
+const workingDeck: Ref<number[]> = ref(
+  shuffleArray(Array.from(props.deck.keys()))
+);
+
+const cardIndex = ref(workingDeck.value[0]);
 
 const cardContent = computed(() => {
   return props.deck[cardIndex.value];
@@ -46,8 +69,8 @@ const cardContent = computed(() => {
 
 const onClick = () => {
   if (isCardRevealed.value) {
-    workingDeck.value.splice(cardIndex.value, 1);
-    cardIndex.value = Math.floor(Math.random() * workingDeck.value.length);
+    workingDeck.value.splice(0, 1);
+    cardIndex.value = workingDeck.value[0];
   }
   isCardRevealed.value = !isCardRevealed.value;
 };
